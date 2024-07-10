@@ -5,9 +5,8 @@ Bu proje, işitme engelliler için işaret dili harflerini tanıyarak bu harfler
 ## Proje Yapısı
 
 - **datasets/**: Kullanılan veri setlerini içeren klasör.
-- **train/**: Eğitim için hazırlanan dosyaları içeren klasör.
-- **test/**: Test için hazırlanan dosyaları içeren klasör.
-- **src/**: Projenin Python kodlarını içeren klasör.
+- **AiTrain/**: Eğitim için hazırlanan dosyaları içeren klasör.
+- **./**: Test için hazırlanan dosyaları içeren klasör.
 
 ## Kullanılan Teknolojiler
 
