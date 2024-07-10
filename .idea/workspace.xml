@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a22d633-0235-4e71-a619-2641eeb229b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AutoComplete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kelimeler/sozluk.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kolaj.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tahminResim/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/tahminResim/L.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tahminResim/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/tahminResim/Z.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tahminResim/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/tahminResim/Ü.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCam.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCam2.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCam2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPredict.py" beforeDir="false" afterPath="$PROJECT_DIR$/testPredict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262202.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/M2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262218.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/Ş2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262233.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/H.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262247.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/Z.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262261.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/O.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262274.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/Ü.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262289.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/K.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262302.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/B.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262327.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/Ğ.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262339.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/Y2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262352.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/I.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262365.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/U.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262378.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/S.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262391.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/T.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262434.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/G.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262492.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/S2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262521.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/A3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262536.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/L.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/1712758262550.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/Ö.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/WhatsApp Image 2024-01-26 at 14.48.22.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/A4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/WhatsApp Image 2024-01-26 at 17.29.58.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/WhatsApp Image 2024-01-31 at 17.15.39.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/Z.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/WhatsApp Image 2024-01-31 at 17.15.44 (1).jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/Y.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/WhatsApp Image 2024-01-31 at 17.15.44.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/WhatsApp Image 2024-01-31 at 17.15.53.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/Ü2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/WhatsApp Image 2024-01-31 at 17.16.10.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/R.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/WhatsApp Image 2024-01-31 at 17.16.16.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/Ö.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/WhatsApp Image 2024-02-15 at 21.23.39.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/WhatsApp Image 2024-04-09 at 22.27.10.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/N.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/_storage_emulated_0_Android_data_com.miui.gallery_cache_SecurityShare_1712758262314.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/R.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testResim/Ş.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/testResim/Ç.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/bertAutoComplete.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2bJOJbRZzs4TXn98DB1CJinsxMo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.AutoComplete.executor": "Run",
+    "Python.TrainDenseNet.executor": "Run",
+    "Python.bertAutoComplete.executor": "Run",
+    "Python.changeFileNames.executor": "Run",
+    "Python.continueTraining.executor": "Run",
+    "Python.google-auto-complete.executor": "Run",
+    "Python.kolaj.executor": "Run",
+    "Python.mersennePrimes.executor": "Run",
+    "Python.prepareDataset.executor": "Run",
+    "Python.prepareTestImages.executor": "Run",
+    "Python.processImages.executor": "Run",
+    "Python.resimdonustur.executor": "Run",
+    "Python.resizeImages.executor": "Run",
+    "Python.rotateImages.executor": "Run",
+    "Python.testCam.executor": "Run",
+    "Python.testCam2.executor": "Run",
+    "Python.testOpencv.executor": "Run",
+    "Python.testPredict.executor": "Run",
+    "Python.trainEfficientNet.executor": "Run",
+    "Python.trainMobileNet.executor": "Run",
+    "Python.trainMobileNet2.executor": "Run",
+    "Python.trainModel.executor": "Run",
+    "Python.trainResNet.executor": "Run",
+    "Python.validateModel.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/ufuk/PycharmProjects/signLanguage/testImages",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/testResim" />
+      <recent name="$PROJECT_DIR$/model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testImages" />
+      <recent name="$PROJECT_DIR$/AiTrainScript" />
+      <recent name="$PROJECT_DIR$/prepareDataset" />
+      <recent name="$PROJECT_DIR$/testResim" />
+      <recent name="$PROJECT_DIR$/testPrepDir" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a22d633-0235-4e71-a619-2641eeb229b2" name="Changes" comment="" />
+      <created>1705929644576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705929644576</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AiTrainScript/trainModel.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
